@@ -33,22 +33,22 @@
 
 <br />
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats & Top Langs -->
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" width="50%" style="padding-right: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=ruly13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%" style="padding-left: 10px;">
-      <h3>🏆 Trophies</h3>
-      <img src="https://github-profile-trophies.vercel.app/?username=ruly13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruly13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
 
+<!-- Activity Graph -->
 <div align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruly13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruly13&theme=tokyonight&hide_border=true&bg_color=0D1117&color=FE7D37&line=FE7D37&point=FFFFFF" alt="Activity Graph" width="100%" />
 </div>
 
 <br />
