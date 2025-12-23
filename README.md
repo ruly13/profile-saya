@@ -40,7 +40,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=ruly13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%" style="padding-left: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruly13&theme=tokyonight&hide_border=true&background=0D1117&ring=FE7D37&currStreakLabel=FE7D37" alt="GitHub Streak" width="100%" />
+      <img src="https://streak-stats.demolab.com?user=ruly13&theme=tokyonight&hide_border=true&background=0D1117&ring=FE7D37&currStreakLabel=FE7D37" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
@@ -54,7 +54,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/ruly13/profile-saya/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/ruly13/profile-saya/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
