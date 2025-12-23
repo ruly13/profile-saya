@@ -40,7 +40,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=ruly13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%" style="padding-left: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruly13&theme=tokyonight&hide_border=true&background=0D1117&ring=FE7D37&currStreakLabel=FE7D37" alt="GitHub Streak" width="100%" />
+      <h3>🏆 Trophies</h3>
+      <img src="https://github-profile-trophies.vercel.app/?username=ruly13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
     </td>
   </tr>
 </table>
